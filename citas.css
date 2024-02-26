@@ -1,3 +1,7 @@
+body{    
+    font-family: "Amita", serif; 
+}
+
 header { 
     display: flex;
     flex-direction: row;
@@ -25,7 +29,6 @@ nav.principal{
 
 a{
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     padding-right: 20px;
 }
@@ -53,7 +56,6 @@ form label, form p{
 .input-textos{
     display: block;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0);
     margin: 0 0 20px;
     padding: 10px 30px;
@@ -66,7 +68,6 @@ label.checkbox{
 
 form p{
     color:  rgb(97, 117, 63);
-    font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
 }
 
@@ -78,7 +79,6 @@ margin: 35px 20px;
     width: 40%;
     padding: 15px 0px;
     color:  whitesmoke;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
     background-color: rgb(97, 117, 63);
